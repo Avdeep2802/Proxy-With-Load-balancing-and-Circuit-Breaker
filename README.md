@@ -1,2 +1,2 @@
-# ConsistentHashing
-Load Balancing with Consistent Hashing 
+# 
+Proxy with Load Balancing And Circuit Breaker
